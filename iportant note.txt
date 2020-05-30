@@ -1,0 +1,5 @@
+Create Database named project then  Import database quiz_new.sql
+
+admin log in 
+admin@admin.com : admin
+

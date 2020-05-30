@@ -95,13 +95,13 @@ echo '<a href="logout.php?q=feedback.php" class="pull-right sub1 btn title3"><sp
 <?php if(@$_GET['q'])echo '<span style="font-size:18px;"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span>&nbsp;'.@$_GET['q'].'</span>';
 else
 {echo' 
-You can send us your feedback through e-mail on the following e-mail id:<br />
+<h3>You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="row">
 <div class="col-md-1"></div>
 <div class="col-md-10">
-<a href="mailto:chiraggoel.53784@gmail.com" style="color:#000000">sunnygkp10@gmail.com</a><br /><br />
+<a href="mailto:ao05068@gmail.com" style="color:#000000">ao05068@gmail.com</a><br /><br />
 </div><div class="col-md-1"></div></div>
-<p>Or you can directly submit your feedback by filling the enteries below:-</p>
+<p>Or you can directly submit your feedback by filling the enteries below:-</p></h3>
 <form role="form"  method="post" action="feed.php?q=feedback.php">
 <div class="row">
 <div class="col-md-3"><b>Name:</b><br /><br /><br /><b>Subject:</b></div>
@@ -141,13 +141,12 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <!--Footer start-->
 <div class="row footer">
 <div class="col-md-3 box">
-<a href="http://www.projectworlds.in/online-examination" target="_blank">About us</a>
+<a href="https://github.com/ahmed98Osama/FCIOnline" target="_blank">About us</a>
 </div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#developers">Developers</a>
-
 </div>
 <div class="col-md-3 box">
 <a href="feedback.php" target="_blank">Feedback</a></div></div>
@@ -159,19 +158,40 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
         <h4 class="modal-title" style="font-family:'typo' "><span style="color:orange">Developers</span></h4>
       </div>
-	  
+    
       <div class="modal-body">
         <p>
-		<div class="row">
-		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
-		 </div>
-		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
-		</p>
+    <div class="row">
+    <div class="col-md-4">
+     <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-1/c0.40.240.240a/p240x240/13584655_610917112405255_8882482690082263019_o.jpg?_nc_cat=110&_nc_sid=dbb9e7&_nc_oc=AQmrpd8z9wVviC_ZaJDxe2pPhiwjbZK_1uFGoRDCZWRuR2WWXOKRiOhLWNYs_wbeWHU&_nc_ht=scontent-mxp1-1.xx&oh=3c44e4490767d26c6f1a8810c1debd6d&oe=5EF751C5" width=100 height=100 alt="Ahmed Osama" class="img-rounded">
+     </div>
+     <div class="col-md-5">
+    <a href="https://www.facebook.com/ahmed1998osama" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Ahmed Osama</a>
+    </div></div><br>
+
+
+    <div class="row">
+    <div class="col-md-4">
+     <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-1/p240x240/92253413_2887526721328966_6634450245717590016_o.jpg?_nc_cat=110&_nc_sid=dbb9e7&_nc_oc=AQmeV_JiVLi3V_OGQeMpzaOkQyElTPXcJMhrV5HeMXE4kX09dmplYy6gF2VBXRaohRQ&_nc_ht=scontent-mxp1-1.xx&_nc_tp=6&oh=0534e935360852fdc1a7d48ddb17e3f2&oe=5EF7F90F" width=100 height=100 alt="Mahmoud Osama" class="img-rounded">
+     </div>
+     <div class="col-md-5">
+    <a href="https://www.facebook.com/mahmoud.ososx" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Mahmoud Osama</a>
+    </div></div><br>
+
+
+
+
+    <div class="row">
+    <div class="col-md-4">
+     <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-1/p240x240/100598139_3127983840615745_3077612533104771072_o.jpg?_nc_cat=102&_nc_sid=dbb9e7&_nc_oc=AQkCRkDO8SgLYQrFKOOZaYf_x-shy1w8Vj1HRoM_WrmAUcQtxmDBXrXYSAkx2a7kJjw&_nc_ht=scontent-mxp1-1.xx&_nc_tp=6&oh=3a93ad1a7036ac6be54b1717d6f9424c&oe=5EF8CB79" width=100 height=100 alt="Marwan M. Abdulsalam" class="img-rounded">
+     </div>
+     <div class="col-md-5">
+    <a href="https://www.facebook.com/barracuda2273" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Marwan M. Abdulsalam</a>
+    </div></div>
+
+
+
+    </p>
       </div>
     
     </div><!-- /.modal-content -->
@@ -179,7 +199,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 </div><!-- /.modal -->
 
 <!--Modal for admin login-->
-	 <div class="modal fade" id="login">
+   <div class="modal fade" id="login">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">

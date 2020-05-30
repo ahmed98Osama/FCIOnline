@@ -173,7 +173,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <!--Footer start-->
 <div class="row footer">
 <div class="col-md-3 box">
-<a href="http://www.projectworlds/online-examination" target="_blank">About us</a>
+<a href="https://github.com/ahmed98Osama/FCIOnline" target="_blank">About us</a>
 </div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
@@ -195,13 +195,34 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
+		 <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-1/c0.40.240.240a/p240x240/13584655_610917112405255_8882482690082263019_o.jpg?_nc_cat=110&_nc_sid=dbb9e7&_nc_oc=AQmrpd8z9wVviC_ZaJDxe2pPhiwjbZK_1uFGoRDCZWRuR2WWXOKRiOhLWNYs_wbeWHU&_nc_ht=scontent-mxp1-1.xx&oh=3c44e4490767d26c6f1a8810c1debd6d&oe=5EF751C5" width=100 height=100 alt="Ahmed Osama" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
+		<a href="https://www.facebook.com/ahmed1998osama" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Ahmed Osama</a>
+		</div></div><br>
+
+
+    <div class="row">
+    <div class="col-md-4">
+     <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-1/p240x240/92253413_2887526721328966_6634450245717590016_o.jpg?_nc_cat=110&_nc_sid=dbb9e7&_nc_oc=AQmeV_JiVLi3V_OGQeMpzaOkQyElTPXcJMhrV5HeMXE4kX09dmplYy6gF2VBXRaohRQ&_nc_ht=scontent-mxp1-1.xx&_nc_tp=6&oh=0534e935360852fdc1a7d48ddb17e3f2&oe=5EF7F90F" width=100 height=100 alt="Mahmoud Osama" class="img-rounded">
+     </div>
+     <div class="col-md-5">
+    <a href="https://www.facebook.com/mahmoud.ososx" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Mahmoud Osama</a>
+    </div></div><br>
+
+
+
+
+    <div class="row">
+    <div class="col-md-4">
+     <img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-1/p240x240/100598139_3127983840615745_3077612533104771072_o.jpg?_nc_cat=102&_nc_sid=dbb9e7&_nc_oc=AQkCRkDO8SgLYQrFKOOZaYf_x-shy1w8Vj1HRoM_WrmAUcQtxmDBXrXYSAkx2a7kJjw&_nc_ht=scontent-mxp1-1.xx&_nc_tp=6&oh=3a93ad1a7036ac6be54b1717d6f9424c&oe=5EF8CB79" width=100 height=100 alt="Marwan M. Abdulsalam" class="img-rounded">
+     </div>
+     <div class="col-md-5">
+    <a href="https://www.facebook.com/barracuda2273" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Marwan M. Abdulsalam</a>
+    </div></div>
+
+
+
 		</p>
       </div>
     
